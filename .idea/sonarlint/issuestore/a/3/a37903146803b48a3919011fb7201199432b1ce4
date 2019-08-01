@@ -1,0 +1,8 @@
+
+Jsquid:S1444".Make this "public static anything" field final(ş¬—Ü8ÌšÊê‘,
+Osquid:S1118":Add a private constructor to hide the implicit public one.(î”Ñ©
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ü†ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(İÕÏ‰
+€"squid:ClassVariableVisibilityCheck"TMake anything a static final constant or non-public and provide accessors if needed.(ş¬—Ü
+œsquid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(×ÄÃ
